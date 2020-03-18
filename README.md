@@ -1,2 +1,2 @@
-# music-data-aquisition-
-a repo all the scrapper and extractors i need for a project
+# music-data-aquisition
+a repo for all the scrappers and extractors I need for a project
